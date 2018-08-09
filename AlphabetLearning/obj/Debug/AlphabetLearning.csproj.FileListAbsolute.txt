@@ -1,0 +1,92 @@
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\App.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\MainPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\Message.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\NextPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.exe
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.pdb
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\resources.pri
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\AppxManifest.xml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.build.appxrecipe
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\App.g.i.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\App.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.g.i.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.g.i.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\Message.g.i.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\Message.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.g.i.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\App.xaml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.xaml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.xaml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\App.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\XamlSaveStateFile.xml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.xaml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\Message.xaml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\Message.xbf
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetLearning.exe
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetLearning.pdb
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\priconfig.xml
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\priconfig.xml.intermediate
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\layout.resfiles
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\layout.resfiles.intermediate
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\resources.resfiles
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\resources.resfiles.intermediate
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\pri.resfiles
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\pri.resfiles.intermediate
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\qualifiers.txt
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\qualifiers.txt.intermediate
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Debug\ProjectArchitectures.txt
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\App.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\MainPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\Message.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\NextPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.exe
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.pdb
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\resources.pri
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AppxManifest.xml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.build.appxrecipe
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\App.g.i.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\App.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.g.i.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.g.i.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\Message.g.i.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\Message.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.g.i.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\XamlTypeInfo.g.cs
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\App.xaml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.xaml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.xaml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\Message.xaml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.xaml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\App.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\MainPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\Message.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\NextPage.xbf
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\XamlSaveStateFile.xml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetLearning.exe
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\AlphabetLearning.pdb
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\priconfig.xml
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\priconfig.xml.intermediate
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\layout.resfiles
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\layout.resfiles.intermediate
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\resources.resfiles
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\resources.resfiles.intermediate
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\pri.resfiles
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\pri.resfiles.intermediate
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\qualifiers.txt
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\qualifiers.txt.intermediate
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\obj\Debug\ProjectArchitectures.txt

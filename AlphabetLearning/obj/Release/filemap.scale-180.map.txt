@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-180"
+"ResourceDimensions"		"scale-180"
+
+[Files]
+"C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Release\filemap.scale-180.pri"			"resources.pri"
+"C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Release\PackageLayout\Images\logo.scale-180.jpg"			"Images\logo.scale-180.jpg"
+"C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\obj\Release\PackageLayout\Assets\Square150x150Logo.scale-180.png"			"Assets\Square150x150Logo.scale-180.png"

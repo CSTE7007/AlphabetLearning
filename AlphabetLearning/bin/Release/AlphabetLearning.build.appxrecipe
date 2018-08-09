@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUPERNATURAL</Machine>
+    <WindowsUser>MIKParadox</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>45107MohammedIbrahimKhali.442362B781370</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AlphabetLearning.exe">
+      <PackagePath>AlphabetLearning.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-140.png">
+      <PackagePath>Assets\Square150x150Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-180.png">
+      <PackagePath>Assets\Square150x150Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-80.png">
+      <PackagePath>Assets\Square150x150Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\mik_logo.png">
+      <PackagePath>Images\mik_logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\alphabetLearning.jpg">
+      <PackagePath>Images\alphabetLearning.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\FalphabetLearning.JPG">
+      <PackagePath>Images\FalphabetLearning.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\logo.scale-100.jpg">
+      <PackagePath>Images\logo.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\logo.scale-140.jpg">
+      <PackagePath>Images\logo.scale-140.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\logo.scale-180.jpg">
+      <PackagePath>Images\logo.scale-180.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\logo.scale-80.jpg">
+      <PackagePath>Images\logo.scale-80.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Images\me.jpg">
+      <PackagePath>Images\me.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\A.mp4">
+      <PackagePath>Videos\A.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\B.mp4">
+      <PackagePath>Videos\B.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\C.mp4">
+      <PackagePath>Videos\C.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\D.mp4">
+      <PackagePath>Videos\D.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\E.mp4">
+      <PackagePath>Videos\E.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\F.mp4">
+      <PackagePath>Videos\F.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\G.mp4">
+      <PackagePath>Videos\G.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\H.mp4">
+      <PackagePath>Videos\H.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\I.mp4">
+      <PackagePath>Videos\I.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\J.mp4">
+      <PackagePath>Videos\J.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\K.mp4">
+      <PackagePath>Videos\K.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\L.mp4">
+      <PackagePath>Videos\L.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\M.mp4">
+      <PackagePath>Videos\M.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\N.mp4">
+      <PackagePath>Videos\N.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\O.mp4">
+      <PackagePath>Videos\O.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\P.mp4">
+      <PackagePath>Videos\P.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\Q.mp4">
+      <PackagePath>Videos\Q.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\R.mp4">
+      <PackagePath>Videos\R.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\S.mp4">
+      <PackagePath>Videos\S.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\T.mp4">
+      <PackagePath>Videos\T.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\U.mp4">
+      <PackagePath>Videos\U.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\V.mp4">
+      <PackagePath>Videos\V.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\W.mp4">
+      <PackagePath>Videos\W.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\X.mp4">
+      <PackagePath>Videos\X.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\Y.mp4">
+      <PackagePath>Videos\Y.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\Videos\Z.mp4">
+      <PackagePath>Videos\Z.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AlphabetPage.xbf">
+      <PackagePath>AlphabetPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\Message.xbf">
+      <PackagePath>Message.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\NextPage.xbf">
+      <PackagePath>NextPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+MainPackage=C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AlphabetLearning_1.1.0.0_Bundle\AlphabetLearning_1.1.0.0_AnyCPU.appx
+SymbolPackage=C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\AppPackages\AlphabetLearning_1.1.0.0_Test\AlphabetLearning_1.1.0.0_AnyCPU.appxsym
+ResourcePack=C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AlphabetLearning_1.1.0.0_Bundle\AlphabetLearning_1.1.0.0_scale-140.appx
+ResourcePack=C:\Users\MIKParadox\documents\visual studio 2013\Projects\AlphabetLearning\AlphabetLearning\bin\Release\AlphabetLearning_1.1.0.0_Bundle\AlphabetLearning_1.1.0.0_scale-180.appx

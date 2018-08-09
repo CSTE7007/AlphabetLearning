@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATOM</Machine>
+    <WindowsUser>MIKParadox</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>45107MohammedIbrahimKhali.442362B781370</PackageIdentityName>
+    <RegisteredManifestChecksum>1967EC5C7FFA09E8D0AB00964C2A6402C414C9E6A560D816FAE528369C565B0D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45107MohammedIbrahimKhali.442362B781370_1.1.0.0_neutral__p6jtkdnmapnaa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45107MohammedIbrahimKhali.442362B781370_p6jtkdnmapnaa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45107MohammedIbrahimKhali.442362B781370</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=C65E9E10-A8AE-4541-8A71-F1FAA11D5A70</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-20T13:15:04.502</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetLearning.exe">
+      <PackagePath>AlphabetLearning.exe</PackagePath>
+      <Modified>2017-07-20T13:15:04.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T09:47:00.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T09:47:00.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-09T00:31:51.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <Modified>2015-11-11T09:47:00.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-140.png">
+      <PackagePath>Assets\Square150x150Logo.scale-140.png</PackagePath>
+      <Modified>2015-11-11T09:47:00.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-180.png">
+      <PackagePath>Assets\Square150x150Logo.scale-180.png</PackagePath>
+      <Modified>2015-11-11T09:47:00.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Square150x150Logo.scale-80.png">
+      <PackagePath>Assets\Square150x150Logo.scale-80.png</PackagePath>
+      <Modified>2015-11-11T09:47:00.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T09:47:00.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T09:47:00.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-11T09:47:00.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\mik_logo.png">
+      <PackagePath>Images\mik_logo.png</PackagePath>
+      <Modified>2015-11-11T09:02:29.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-11-11T08:59:07.580</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\alphabetLearning.jpg">
+      <PackagePath>Images\alphabetLearning.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\FalphabetLearning.JPG">
+      <PackagePath>Images\FalphabetLearning.JPG</PackagePath>
+      <Modified>2015-11-11T09:02:29.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\logo.scale-100.jpg">
+      <PackagePath>Images\logo.scale-100.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\logo.scale-140.jpg">
+      <PackagePath>Images\logo.scale-140.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\logo.scale-180.jpg">
+      <PackagePath>Images\logo.scale-180.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\logo.scale-80.jpg">
+      <PackagePath>Images\logo.scale-80.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Images\me.jpg">
+      <PackagePath>Images\me.jpg</PackagePath>
+      <Modified>2015-11-11T09:02:29.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\A.mp4">
+      <PackagePath>Videos\A.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\B.mp4">
+      <PackagePath>Videos\B.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\C.mp4">
+      <PackagePath>Videos\C.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\D.mp4">
+      <PackagePath>Videos\D.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\E.mp4">
+      <PackagePath>Videos\E.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\F.mp4">
+      <PackagePath>Videos\F.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\G.mp4">
+      <PackagePath>Videos\G.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\H.mp4">
+      <PackagePath>Videos\H.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\I.mp4">
+      <PackagePath>Videos\I.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\J.mp4">
+      <PackagePath>Videos\J.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\K.mp4">
+      <PackagePath>Videos\K.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\L.mp4">
+      <PackagePath>Videos\L.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\M.mp4">
+      <PackagePath>Videos\M.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\N.mp4">
+      <PackagePath>Videos\N.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:25.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\O.mp4">
+      <PackagePath>Videos\O.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\P.mp4">
+      <PackagePath>Videos\P.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\Q.mp4">
+      <PackagePath>Videos\Q.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\R.mp4">
+      <PackagePath>Videos\R.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\S.mp4">
+      <PackagePath>Videos\S.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\T.mp4">
+      <PackagePath>Videos\T.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\U.mp4">
+      <PackagePath>Videos\U.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\V.mp4">
+      <PackagePath>Videos\V.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\W.mp4">
+      <PackagePath>Videos\W.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\X.mp4">
+      <PackagePath>Videos\X.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\Y.mp4">
+      <PackagePath>Videos\Y.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\Videos\Z.mp4">
+      <PackagePath>Videos\Z.mp4</PackagePath>
+      <Modified>2015-11-11T09:19:26.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-11-11T10:36:33.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\AlphabetPage.xbf">
+      <PackagePath>AlphabetPage.xbf</PackagePath>
+      <Modified>2016-06-22T14:27:33.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-11-11T10:36:33.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\Message.xbf">
+      <PackagePath>Message.xbf</PackagePath>
+      <Modified>2015-11-11T10:41:23.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\NextPage.xbf">
+      <PackagePath>NextPage.xbf</PackagePath>
+      <Modified>2015-11-11T10:36:33.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projects\storePublish\AlphabetLearning\AlphabetLearning\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-07-20T13:15:04.299</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
